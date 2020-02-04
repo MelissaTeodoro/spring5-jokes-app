@@ -1,4 +1,4 @@
-package com.springframework.joke.jokeapp;
+package com.springframework.joke;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
